@@ -1,6 +1,6 @@
 # SafeHands Insurance Data Cleaning
 
-Public Repository: [SafeHands-Insurance-Data-Cleaning](https://github.com/YOUR_USERNAME/SafeHands-Insurance-Brokers-Customer-Segmentation-Project)
+Public Repository: [SafeHands-Insurance-Data-Cleaning](https://github.com/Muaaz980/SafeHands-Insurance-Brokers-Customer-Segmentation-Project)
 
 ## Project Overview
 This repository performs initial data cleaning and preprocessing on a public medical insurance dataset sourced from Kaggle/GitHub for the SafeHands insurance project to prepare clean customer data for downstream analysis.
