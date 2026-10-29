@@ -31,9 +31,3 @@ jupyter notebook data_cleaning.ipynb
 
 ---
 
-### Steps to publish on GitHub Web:
-1. In your GitHub repository, click **Add file** > **Create new file**.
-2. Type `README.md` in the filename box.
-3. Paste the markdown block above into the file editor.
-4. Replace `YOUR_USERNAME` and `SafeHands-Insurance-Data-Cleaning` in the link/clone sections with your actual GitHub username and repository name.
-5. Click **Commit changes...** at the top right.
